@@ -38,5 +38,9 @@ header {
   justify-content: space-around;
 }
 img {
-  align-content: center;
+  align-content: left;
+}
+
+.section {
+  padding: 10px;
 }
